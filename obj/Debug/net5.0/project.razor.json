@@ -15634,6 +15634,26 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "f:\\SandeepSirClasses\\Azure\\Pratice\\DotNetAzure\\Views\\Todos\\Create.cshtml",
+      "TargetPath": "Views\\Todos\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\SandeepSirClasses\\Azure\\Pratice\\DotNetAzure\\Views\\Todos\\Delete.cshtml",
+      "TargetPath": "Views\\Todos\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\SandeepSirClasses\\Azure\\Pratice\\DotNetAzure\\Views\\Todos\\Index.cshtml",
+      "TargetPath": "Views\\Todos\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\SandeepSirClasses\\Azure\\Pratice\\DotNetAzure\\Views\\Todos\\Details.cshtml",
+      "TargetPath": "Views\\Todos\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "f:\\SandeepSirClasses\\Azure\\Pratice\\DotNetAzure\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -15641,6 +15661,11 @@
     {
       "FilePath": "f:\\SandeepSirClasses\\Azure\\Pratice\\DotNetAzure\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\SandeepSirClasses\\Azure\\Pratice\\DotNetAzure\\Views\\Todos\\Edit.cshtml",
+      "TargetPath": "Views\\Todos\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
